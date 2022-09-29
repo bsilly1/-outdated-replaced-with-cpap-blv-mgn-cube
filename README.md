@@ -8,7 +8,7 @@ tmc2226 drivers.
 
 superpinda probe.
 
-dual z
+dual independent z
 
 mellow nf sunrise dd.
 
