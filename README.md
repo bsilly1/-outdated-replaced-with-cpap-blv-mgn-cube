@@ -1,6 +1,10 @@
-# blv-mgn-cube
+# blv-mgn-cube.
 
-biqu octopus pro (klipper with mainsail). (tmc2226 drivers)
+biqu octopus pro.
+
+klipper with mainsail. 
+
+tmc2226 drivers.
 
 superpinda probe.
 
