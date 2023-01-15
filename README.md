@@ -1,17 +1,21 @@
-# blv-mgn-cube fysetc kit with fysetc all metal kit
+# BLV-MGN-Cube Fysetc Kit With Fysetc All Metal Kit
 
-biqu octopus pro.
+Biqu Octopus Pro.
 
-klipper with mainsail. 
+Klipper with Mainsail. 
 
-tmc2226 drivers.
+TMC2226 Drivers.
 
-superpinda probe.
+Superpinda Probe.
 
-dual independent z
+Dual Independent Z.
 
-mellow nf sunrise dd.
+Mellow NF Sunrise DD.
 
-crowsnest camera configuration.
+Crowsnest Camera Configuration.
 
-bme680 sensor.
+BME680 Sensor.
+
+Voron Nevermore V5 Duo.
+
+Yasuoki Carbon Filter 7530 Recirculating HEPA Fan Setup.
